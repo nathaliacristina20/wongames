@@ -17,6 +17,10 @@
     "slug": {
       "type": "uid",
       "targetField": "name"
+    },
+    "games": {
+      "via": "developers",
+      "collection": "game"
     }
   }
 }
