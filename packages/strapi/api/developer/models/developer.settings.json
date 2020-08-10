@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "categories",
+  "collectionName": "developers",
   "info": {
-    "name": "category"
+    "name": "developer"
   },
   "options": {
     "increments": true,
@@ -16,8 +16,7 @@
     },
     "slug": {
       "type": "uid",
-      "targetField": "name",
-      "required": true
+      "targetField": "name"
     }
   }
 }
