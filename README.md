@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="300" align="center" src=".github/logo.png" alt="logo da WonGames">
+  <img width="300" align="center" src=".github/logo.svg" alt="logo da WonGames">
 </h1>
 
 <h3 align="center">WonGames</h3>
