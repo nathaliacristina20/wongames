@@ -19,9 +19,8 @@
     }
   },
   "lint-staged": {
-    "*.{tsx,js}": [
-      "eslint --fix",
-      "cross-env CI=true yarn jest --bail --findRelatedTests"
+    "packages/client/src/**/*": [
+      "eslint --fix"
     ]
   },
   "devDependencies": {
